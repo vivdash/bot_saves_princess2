@@ -51,5 +51,7 @@ File spec/bot_saves_princess.rb tests that logic using Rspec by extending the Ke
 Run tests with the command:
 
 git clone https://github.com/vivdash/bot_saves_princess2.git
+
 cd bot_saves_princess2
+
 rspec spec/bot_saves_princess.rb
