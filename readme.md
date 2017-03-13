@@ -1,7 +1,9 @@
 In this version of "Bot saves princess", Princess Peach and bot's position are randomly set. Can you save the princess?
 
 git clone https://github.com/vivdash/bot_saves_princess2.git
-cd bot_saves_princess
+
+cd bot_saves_princess2/lib
+
 ruby main.rb
 
 Input Format
