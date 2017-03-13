@@ -1,5 +1,9 @@
 In this version of "Bot saves princess", Princess Peach and bot's position are randomly set. Can you save the princess?
 
+git clone https://github.com/vivdash/bot_saves_princess2.git
+cd bot_saves_princess
+ruby main.rb
+
 Input Format
 
 The first line of the input is N (<100), the size of the board (NxN). The second line of the input contains two space separated integers, which is the position of the bot.
@@ -44,4 +48,6 @@ File spec/bot_saves_princess.rb tests that logic using Rspec by extending the Ke
 
 Run tests with the command:
 
-rspec bot_saves_princess_2/spec/bot_saves_princess.rb
+git clone https://github.com/vivdash/bot_saves_princess2.git
+cd bot_saves_princess2
+rspec spec/bot_saves_princess.rb
